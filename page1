@@ -5,7 +5,8 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("Hello World! ");
-        System.out.println("Hello My Name is Eman! Alex! and EMMMMMMMM! ");
+        System.out.println("Hello My Name is Eman! ");
+        System.out.println("Helloo My Name is Emily");
         
     }
     
